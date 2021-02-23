@@ -54,27 +54,27 @@ STRATEGIES
 
 ## Game elements
 👤 Characters
-Sailor (Player)
-Pirate (Bad guys)
-Whale Poachers or Hunters (Enimies)
+- Sailor (Player)
+- Pirate (Bad guys)
+- Whale Poachers or Hunters (Enimies)
 
 
 🗺️ Locations
-Maps Pacific Ocean
-Maps Arctic Ocean
+- Maps Pacific Ocean
+- Maps Arctic Ocean
 
 🏆️ Levels / missions
-Collect Debries and build armour 
-Unlock Ships and tools to gather debrie
-Win or build tools to find and gather treasure 
+- Collect Debries and build armour 
+- Unlock Ships and tools to gather debrie
+- Win or build tools to find and gather treasure 
 like a Submarine 
 
 
 📦️ Objects
-Bottles 
-Plastic 
-Briken Ships
-Oil
+- Bottles 
+- Plastic 
+- Briken Ships
+- Oil
 
 
 Assets
