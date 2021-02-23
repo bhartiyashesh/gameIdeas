@@ -45,39 +45,39 @@ Challenges
 3. Collect Marine Debries.
 4. Complete certain tasks.
 
+
+STRATEGIES
+1. Read all text and interact with all people and signs.
+2. Defeat wild poachers and whale hunters to gain experience points to level up.
+3. Use positive-effective attacks and armour to defeat opposing sailors / pirates quicker.
+4. Save Marine life by maintaining clean ecosystem.
+
 ## Game elements
-Describe your game world, including all the characters, location, object, and other elements in it.
-
 👤 Characters
-...
+Sailor (Player)
+Pirate (Bad guys)
+Whale Poachers or Hunters (Enimies)
 
-...
-
-...
 
 🗺️ Locations
-...
-
-...
-
-...
+Maps Pacific Ocean
+Maps Arctic Ocean
 
 🏆️ Levels / missions
-...
+Collect Debries and build armour 
+Unlock Ships and tools to gather debrie
+Win or build tools to find and gather treasure 
+like a Submarine 
 
-...
-
-...
 
 📦️ Objects
-...
+Bottles 
+Plastic 
+Briken Ships
+Oil
 
-...
-
-...
 
 Assets
-Here is where you will include all of the assets needed as well as brief descriptions.
 
 🎨 Art
 ...
@@ -101,6 +101,8 @@ Here is where you will include all of the assets needed as well as brief descrip
 ...
 
 ## 💵 Monetization
+Ability to purchase tools 
+and better ships and uniforms 
   
 ## 📐 Project scope
 Budget
