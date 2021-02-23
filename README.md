@@ -52,12 +52,23 @@ STRATEGIES
 3. Use positive-effective attacks and armour to defeat opposing sailors / pirates quicker.
 4. Save Marine life by maintaining clean ecosystem.
 
+
 ## Game elements
 👤 Characters
 - Sailor (Player)
+  - Make custom name
+  - Choose male or female
+  - Change appearance for hat, face, shirt, pants, and shoes
 - Pirate (Bad guys)
 - Whale Poachers or Hunters (Enimies)
 
+Actions
+- Battling
+- Capturing
+- Trading
+
+Movement
+- Four directional movement
 
 🗺️ Locations
 - Maps Pacific Ocean
