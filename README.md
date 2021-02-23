@@ -101,8 +101,9 @@ Assets
 ...
 
 ## 💵 Monetization
-Ability to purchase tools 
+- Ability to purchase tools 
 and better ships and uniforms 
+- Advertisements
   
 ## 📐 Project scope
 Budget
