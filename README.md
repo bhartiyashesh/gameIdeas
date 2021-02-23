@@ -22,10 +22,11 @@ Players would resonate with the purpose of the NGO, by experiencing first hand a
 Seacleanse* is a role-playing Agumented Reality Strategy game where The player takes on the role of the Sailor / Navigator / Marine Biologist and set on a quest to explore an open world. While the geographic setting of the game is the world around him is the ocean, the game features Ports, Workshops, Recycle Plants, etc as bay where the user could redeem points and upgrade armour.
 
 ## Story
-You (The player) has a different personality of a sailor / Navy marine / pirate has set out on an amazing journey to win the ocean by making it clean and having the strongest Ship with tools to be the best 
+You are now a Sailor after just receiving your first boat. 
+Your future will consist of battling fellow sailors multiple times, battling many random Pirates, Whale Hunters, Poachers,, Sailors, and battling other Port defenders. During your adventure, you will talk to other people to hear advice or history and read signs. Also, you will collect other Marine debris, and use them to barter for treassure or build armor. Items will be picked up off from the ocean and given to you from other people to help aid your quest. Finally, you then will defeat all to complete your quest of becoming one of the best sailors and environmentalists ever. 
 
 ## Gameplay
-Describe how the game is played. Be specific and describe each feature in a structured way.
+You (The player) has a different personality of a sailor / Navy marine / pirate has set out on an amazing journey to win the ocean by making it clean and having the strongest Ship with tools to be the best among other players and collect most amount of treassure.
 
 Core Game Mechanic #1
 Details:
