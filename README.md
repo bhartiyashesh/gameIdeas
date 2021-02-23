@@ -28,20 +28,20 @@ Your future will consist of battling fellow sailors multiple times, battling man
 ## Gameplay
 You (The player) has a different personality of a sailor / Navy marine / pirate has set out on an amazing journey to win the ocean by making it clean and having the strongest Ship with tools to be the best among other players and collect most amount of treassure.
 
-Core Game Mechanic #1
-Details:
+Levels
+Since this game is about the progression of the sailor’s attempt to become one of the best, perhaps a more linear progression would help keep the player focused
+directly toward the goal. As players reach new seas and routes, they will be able to gather resources either by collecting items, Saving Aquatic Creatures, or medals. Allowing for player choice is essential - so the player should be able to choose whether to play as a boy or girl. If the player chooses to play as a boy, gameplay will be almost similar to the girl’s gameplay. However, the appearance of the trainer’s head, shirt, pants, shoes, and hat will vary depending on the gender chosen.
 
-How it works:
+Vicotry or Loss Conditions
+The boy and girl’s victory conditions are exactly the same
+Victory = Your Ship defeating all of the other Sailors / Pirate’s Ships.
+Loss = Your Ship and Tools that you are currently carrying are all at low armour during a battle with an opposing Ship.
 
-Core Game Mechanic #2
-Details:
-
-How it works:
-
-Core Game Mechanic #3
-Details:
-
-How it works:
+Challenges
+1. Build Ship.
+2. Defeat fellow Sailors.
+3. Collect Marine Debries.
+4. Complete certain tasks.
 
 ## Game elements
 Describe your game world, including all the characters, location, object, and other elements in it.
