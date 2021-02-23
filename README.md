@@ -20,6 +20,9 @@ We would use location tracking and mapping technology to create an ‘augmented 
 ## Theme and setting
 Seacleanse* is a role-playing Agumented Reality Strategy game where The player takes on the role of the Sailor / Navigator / Marine Biologist and set to explore an open world. While the geographic setting of the game is the world around him is the ocean, the game features Ports, Workshops, Recycle Plants, etc as bay where the user could redeem points and upgrade armour.
 
+## Story
+A one-paragraph synopsis of the story. If the story is too long, save the details for a separate document.
+
 ## Gameplay
 Describe how the game is played. Be specific and describe each feature in a structured way.
 
