@@ -4,24 +4,25 @@
 
 Open world Agumented reality game where the world is your ocean and you are the navigator of your virtual ship, combining gaming with the real world.
 We would use location tracking and mapping technology to create an ‘augmented reality’ where players collect (Materials, Trash, Treassure) and build ship armour in real locations.
+Players would resonate with the purpose of the NGO, by experiencing first hand and volunteer to clean the ocean and understand the cause!  
 
 ## Concept
 ## Overview
-- Genre: Agumented reality / Strategy
+- Genre: Agumented reality / Strategy / role-playing game
 - Target audience: 
-  - Age: 15 to 35 Year old
-  - Gender: Male/Female
+  - Age: 15 to 35 Years
+  - Gender: Male / Female
 - Monetization: Freemium, with in-game micro-transactions
 - Platforms & system requirements:  
-  - Android and IOS Mobile Phones 
+  - Android and IOS Mobile Phones or Tablets
   - Stable Internet Connection 
   - GPS Enabled to collect navigation points
 
 ## Theme and setting
-Seacleanse* is a role-playing Agumented Reality Strategy game where The player takes on the role of the Sailor / Navigator / Marine Biologist and set to explore an open world. While the geographic setting of the game is the world around him is the ocean, the game features Ports, Workshops, Recycle Plants, etc as bay where the user could redeem points and upgrade armour.
+Seacleanse* is a role-playing Agumented Reality Strategy game where The player takes on the role of the Sailor / Navigator / Marine Biologist and set on a quest to explore an open world. While the geographic setting of the game is the world around him is the ocean, the game features Ports, Workshops, Recycle Plants, etc as bay where the user could redeem points and upgrade armour.
 
 ## Story
-A one-paragraph synopsis of the story. If the story is too long, save the details for a separate document.
+You (The player) has a different personality of a sailor / Navy marine / pirate has set out on an amazing journey to win the ocean by making it clean and having the strongest Ship with tools to be the best 
 
 ## Gameplay
 Describe how the game is played. Be specific and describe each feature in a structured way.
