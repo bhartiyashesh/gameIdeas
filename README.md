@@ -84,7 +84,7 @@ like a Submarine
 📦️ Objects
 - Bottles 
 - Plastic 
-- Briken Ships
+- shipwrecks
 - Oil
 
 
