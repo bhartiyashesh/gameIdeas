@@ -86,6 +86,8 @@ like a Submarine
 - Plastic 
 - shipwrecks
 - Oil
+- Mermaid Sheild
+
 
 
 Assets
