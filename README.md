@@ -4,7 +4,7 @@
 
 Open world Agumented reality game where the world is your ocean and you are the navigator of your virtual ship, combining gaming with the real world.
 We would use location tracking and mapping technology to create an ‘augmented reality’ where players collect (Materials, Trash, Treassure) and build ship armour in real locations.
-Players would resonate with the purpose of the [NGO](http://seacleanse.com), by experiencing first hand and volunteer to clean the ocean and understand the cause!  
+Players would resonate with the purpose of the [NGO](http://seacleanse.org), by experiencing first hand and volunteer to clean the ocean and understand the cause!  
 
 ## Concept
 ## Overview
