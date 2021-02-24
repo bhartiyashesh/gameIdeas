@@ -17,3 +17,8 @@ We can upgrade the boat
 upgrade the net
 Either buy or barter for treassure
 
+Only some kind of nets can collect some kind of garbage 
+
+Powerups can be collected 
+bigger net for 10 seconds
+
