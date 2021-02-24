@@ -1,7 +1,6 @@
 # Seacleanse Lite
 ![Seacleanse Lite](https://cdn.dribbble.com/users/2254440/screenshots/4732651/8_bit_yacht.jpg)
 
-
 # Concept
 One directional game quick game
 Garbage (collect) and animals(save) glaciers (Which we have to dodge)
