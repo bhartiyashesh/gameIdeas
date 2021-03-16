@@ -1,6 +1,7 @@
 # Seacleanse Lite
 ![Seacleanse Lite](https://cdn.dribbble.com/users/2254440/screenshots/4732651/8_bit_yacht.jpg)
 
+## 🎮️ Game overview
 # Concept
 One directional game quick game
 Garbage (collect) and animals(save) glaciers (Which we have to dodge)
@@ -21,3 +22,120 @@ Only some kind of nets can collect some kind of garbage
 Powerups can be collected 
 bigger net for 10 seconds
 
+
+
+## Concept
+## Overview
+- Genre: Arcade game
+- Target audience: 
+  - Age: 15 to 50 Years
+  - Gender: Male / Female
+- Monetization: Freemium, with in-game micro-transactions
+- Platforms & system requirements:  
+  - Android and IOS Mobile Phones or Tablets
+  - Stable Internet Connection 
+
+## Theme and setting
+Seacleanse* is a role-playing Agumented Reality Strategy game where The player takes on the role of the Sailor / Navigator / Marine Biologist and set on a quest to explore an open world. While the geographic setting of the game is the world around him is the ocean, the game features Ports, Workshops, Recycle Plants, etc as bay where the user could redeem points and upgrade armour.
+
+## Story
+You are now a Sailor after just receiving your first boat. 
+Your future will consist of battling fellow sailors multiple times, battling many random Pirates, Whale Hunters, Poachers,, Sailors, and battling other Port defenders. During your adventure, you will talk to other people to hear advice or history and read signs. Also, you will collect other Marine debris, and use them to barter for treassure or build armor. Items will be picked up off from the ocean and given to you from other people to help aid your quest. Finally, you then will defeat all to complete your quest of becoming one of the best sailors and environmentalists ever. 
+
+## Gameplay
+You (The player) has a different personality of a sailor / Navy marine / pirate has set out on an amazing journey to win the ocean by making it clean and having the strongest Ship with tools to be the best among other players and collect most amount of treassure.
+
+Levels
+
+Since this game is about the progression of the sailor’s attempt to become one of the best, perhaps a more linear progression would help keep the player focused
+directly toward the goal. As players reach new seas and routes, they will be able to gather resources either by collecting items, Saving Aquatic Creatures, or medals. Allowing for player choice is essential - so the player should be able to choose whether to play as a boy or girl. If the player chooses to play as a boy, gameplay will be almost similar to the girl’s gameplay. However, the appearance of the trainer’s head, shirt, pants, shoes, and hat will vary depending on the gender chosen.
+
+Vicotry or Loss Conditions
+
+The boy and girl’s victory conditions are exactly the same
+Victory = Your Ship defeating all of the other Sailors / Pirate’s Ships.
+Loss = Your Ship and Tools that you are currently carrying are all at low armour during a battle with an opposing Ship.
+
+Challenges
+1. Build Ship.
+2. Defeat fellow Sailors.
+3. Collect Marine Debries.
+4. Complete certain tasks.
+
+
+STRATEGIES
+1. Read all text and interact with all people and signs.
+2. Defeat wild poachers and whale hunters to gain experience points to level up.
+3. Use positive-effective attacks and armour to defeat opposing sailors / pirates quicker.
+4. Save Marine life by maintaining clean ecosystem.
+
+
+## Game elements
+👤 Characters
+- Sailor (Player)
+  - Make custom name
+  - Choose male or female
+  - Change appearance for hat, face, shirt, pants, and shoes
+- Pirate (Bad guys)
+- Whale Poachers or Hunters (Enimies)
+
+Actions
+- Battling
+- Capturing
+- Trading
+
+Movement
+- Four directional movement
+
+🗺️ Locations
+- Maps Pacific Ocean
+- Maps Arctic Ocean
+
+🏆️ Levels / missions
+- Collect Debries and build armour 
+- Unlock Ships and tools to gather debrie
+- Win or build tools to find and gather treasure 
+like a Submarine 
+
+
+📦️ Objects
+- Bottles 
+- Plastic 
+- shipwrecks
+- Oil
+- Mermaid Sheild
+
+
+
+Assets
+
+🎨 Art
+...
+
+...
+
+...
+
+🔊 Sound
+...
+
+...
+
+...
+
+🏃‍ Animation
+...
+
+...
+
+...
+
+## 💵 Monetization
+- Ability to purchase tools 
+and better ships and uniforms 
+- Advertisements
+  
+## 📐 Project scope
+Budget
+
+Timeline
